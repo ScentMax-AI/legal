@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service - ScentMax AI</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      line-height: 1.7;
+      color: #333;
+      background: #fff;
+    }
+    h1 { color: #1a1a1a; border-bottom: 2px solid #f60; padding-bottom: 10px; }
+    h2 { color: #444; margin-top: 40px; }
+    p, li { color: #555; }
+    ul { padding-left: 20px; }
+    .updated { color: #888; font-size: 14px; }
+    .contact { background: #f9f9f9; padding: 20px; border-radius: 8px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service for ScentMax AI</h1>
+  <p class="updated">Last Updated: December 8, 2024</p>
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>By downloading, installing, or using ScentMax AI ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.</p>
+
+  <h2>2. Description of Service</h2>
+  <p>ScentMax AI is a fragrance collection management and recommendation app that uses artificial intelligence to provide personalized suggestions. Features include:</p>
+  <ul>
+    <li>Fragrance collection tracking</li>
+    <li>AI-powered recommendations (AI-Roma)</li>
+    <li>Weather-based daily picks</li>
+    <li>Scent Score analysis</li>
+  </ul>
+
+  <h2>3. Account Registration</h2>
+  <ul>
+    <li>You must provide accurate information when creating an account</li>
+    <li>You are responsible for maintaining account security</li>
+    <li>You must be at least 13 years old to use the App</li>
+    <li>One account per person; no shared accounts</li>
+  </ul>
+
+  <h2>4. Subscription Terms</h2>
+  <p><strong>Pricing</strong></p>
+  <ul>
+    <li>ScentMax AI Pro: $2.99 per week (auto-renewing)</li>
+  </ul>
+  <p><strong>Billing</strong></p>
+  <ul>
+    <li>Payment is charged to your Apple ID account at confirmation of purchase</li>
+    <li>Subscription automatically renews unless canceled at least 24 hours before the end of the current period</li>
+    <li>Your account will be charged for renewal within 24 hours prior to the end of the current period</li>
+  </ul>
+  <p><strong>Cancellation</strong></p>
+  <ul>
+    <li>You may cancel anytime through your Apple ID Account Settings</li>
+    <li>No refunds for partial subscription periods</li>
+    <li>Access continues until the end of the paid period</li>
+  </ul>
+  <p><strong>Free Trial</strong></p>
+  <ul>
+    <li>If offered, any unused portion of a free trial is forfeited when you purchase a subscription</li>
+  </ul>
+
+  <h2>5. Acceptable Use</h2>
+  <p>You agree NOT to:</p>
+  <ul>
+    <li>Use the App for any illegal purpose</li>
+    <li>Attempt to reverse engineer or hack the App</li>
+    <li>Abuse the AI chat feature (spam, harassment, illegal content)</li>
+    <li>Create multiple accounts to circumvent limits</li>
+    <li>Share your account credentials</li>
+    <li>Scrape or collect data from the App</li>
+    <li>Impersonate others or misrepresent your identity</li>
+  </ul>
+
+  <h2>6. AI-Roma (AI Chat) Guidelines</h2>
+  <ul>
+    <li>AI-Roma provides fragrance recommendations only</li>
+    <li>Responses are AI-generated and may not always be accurate</li>
+    <li>Do not rely on AI-Roma for medical, financial, or legal advice</li>
+    <li>We reserve the right to limit or suspend access for abuse</li>
+    <li>Daily usage limits apply (100 chats per day)</li>
+  </ul>
+
+  <h2>7. User Content</h2>
+  <ul>
+    <li>You retain ownership of your fragrance collection data</li>
+    <li>By using the App, you grant us a license to use your data to provide services</li>
+    <li>You are responsible for the accuracy of data you submit</li>
+    <li>We may use anonymized, aggregated data for analytics and improvement</li>
+  </ul>
+
+  <h2>8. Data Rights</h2>
+  <p>By using ScentMax AI, you acknowledge that:</p>
+  <ul>
+    <li>Anonymized, aggregated data derived from your usage may be used commercially</li>
+    <li>In the event of acquisition, your data transfers to the new owner</li>
+    <li>You can delete your account and data at any time before any such event</li>
+  </ul>
+
+  <h2>9. Intellectual Property</h2>
+  <ul>
+    <li>ScentMax AI, AI-Roma, and associated branding are trademarks of Shakeb Siddiqui</li>
+    <li>The App and its content are protected by copyright</li>
+    <li>You may not copy, modify, or distribute App content without permission</li>
+    <li>Fragrance names and brands belong to their respective owners</li>
+  </ul>
+
+  <h2>10. Disclaimers</h2>
+  <p><strong>THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND.</strong></p>
+  <ul>
+    <li>We do not guarantee uninterrupted or error-free service</li>
+    <li>AI recommendations are suggestions only, not professional advice</li>
+    <li>Weather data is provided by third parties and may be inaccurate</li>
+    <li>Fragrance data is for informational purposes only</li>
+  </ul>
+
+  <h2>11. Limitation of Liability</h2>
+  <p><strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW:</strong></p>
+  <ul>
+    <li>We are not liable for indirect, incidental, or consequential damages</li>
+    <li>Our total liability is limited to the amount you paid us in the past 12 months</li>
+    <li>We are not responsible for third-party services or content</li>
+  </ul>
+
+  <h2>12. Indemnification</h2>
+  <p>You agree to indemnify and hold harmless Shakeb Siddiqui and ScentMax AI from any claims, damages, or expenses arising from your use of the App or violation of these Terms.</p>
+
+  <h2>13. Business Transfers</h2>
+  <p>If ScentMax AI is involved in a merger, acquisition, or sale of assets, these Terms will continue to apply to your use of the App. The new owner will assume the rights and obligations under these Terms.</p>
+
+  <h2>14. Termination</h2>
+  <ul>
+    <li>You may delete your account at any time</li>
+    <li>We may suspend or terminate accounts that violate these Terms</li>
+    <li>Upon termination, your right to use the App ceases immediately</li>
+    <li>Provisions that should survive termination will remain in effect</li>
+  </ul>
+
+  <h2>15. Changes to Terms</h2>
+  <p>We may modify these Terms at any time. Material changes will be communicated via email or in-app notification. Continued use after changes constitutes acceptance.</p>
+
+  <h2>16. Governing Law</h2>
+  <p>These Terms are governed by the laws of the State of New Jersey, United States. Any disputes shall be resolved in the courts of New Jersey.</p>
+
+  <h2>17. Severability</h2>
+  <p>If any provision of these Terms is found unenforceable, the remaining provisions will continue in effect.</p>
+
+  <h2>18. Entire Agreement</h2>
+  <p>These Terms, together with the Privacy Policy, constitute the entire agreement between you and ScentMax AI.</p>
+
+  <div class="contact">
+    <h2>19. Contact Us</h2>
+    <p>For questions about these Terms:</p>
+    <p><strong>Email:</strong> shakeb@scentmaxai.com</p>
+    <p><strong>Website:</strong> scentmaxai.com</p>
+    <p><strong>Developer:</strong> Shakeb Siddiqui</p>
+  </div>
+</body>
+</html>
